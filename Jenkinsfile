@@ -1,3 +1,4 @@
+// Compile the Spring Boot backend on the Jenkins agent.
 pipeline {
     agent any
 
